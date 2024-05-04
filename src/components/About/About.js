@@ -23,20 +23,19 @@ function About() {
         </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-            Hello! My name is <strong>Murtaza Ali</strong>. I'm originally from Kashmir and have been living in Canada for the past three years. During my time here, I gained valuable experience through various entry-level positions, which greatly enhanced my work ethic, communication skills, and adaptability.
+            Hello! My name is <strong>Qammar Uz Zamman</strong>. I'm from Kashmir.
             </ScrollAnimation>
 
             <br /><br />
             
             <ScrollAnimation animateIn="fadeInLeft">
-            My journey into the world of technology began with a strong passion for problem-solving, which led me to pursue the Computer Systems Technology program. Despite its challenges, I remained determined and forged lasting friendships that supported me throughout this demanding program.
-            Throughout my studies at BCIT, I had the opportunity to engage in fascinating projects. Notably, I contributed to the development of the RENR Safety App and MyMind, projects that garnered recognition from my colleagues, instructors, and clients alike.
+            As a seasoned Social Data Scientist, I bring a unique blend of analytical prowess, social media expertise, and strategic insight to drive data-driven decision-making in the digital realm. With a passion for uncovering actionable insights from social media data, I specialize in translating complex datasets into meaningful narratives that inform marketing strategies and business outcomes.
             </ScrollAnimation>
 
             <br /><br />
 
             <ScrollAnimation animateIn="fadeInLeft">
-              Working collaboratively within a team towards a shared objective has been an incredibly rewarding and unique experience for me. I am eager to continue exploring exciting projects in the future, with a particular interest in web development and cross-platform mobile development.
+            My background in data science combined with a deep understanding of social media dynamics enables me to extract valuable insights from vast and unstructured social media datasets. Leveraging advanced statistical techniques, machine learning algorithms, and natural language processing (NLP) models, I uncover trends, patterns, and correlations that drive business growth and competitive advantage.
               <div className="tagline2">
                 I have become confident using the following technologies:
               </div>

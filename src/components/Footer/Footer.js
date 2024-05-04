@@ -2,7 +2,8 @@ import React from "react";
 import styled from "@emotion/styled";
 
 const FooterSection = styled.div`
-  background-image: url(/footer_wave.svg);
+  //  background-image: url(/footer_wave.svg);
+  background-color:black;
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
@@ -22,7 +23,8 @@ const FooterSection = styled.div`
 function Footer() {
   return (
     <FooterSection>
-      <div className="Container"/>
+      <div className="Container text-center p-6 bg-black footer"/>
+        <span class="text-white">&copy; created by CQAI WEB TEAM </span>
     </FooterSection>
   );
 }

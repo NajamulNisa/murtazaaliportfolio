@@ -2,49 +2,32 @@
 export const ProjectList = [
   {
     img: "/ykte-feature-graphic.png",
-    title: "YouKnowTheEnding",
+    title: "Script_Translator",
     description:
-      "A cross-platform mobile game (in closed testing) where players try to find the missing pieces of a story.",
-    tech_stack: ["React Native", "Google Cloud", "NextJs", "TailwindCSS"],
-    github_url: "https://github.com/NajamulNisa",
+      "Translate scripts, dialogue, and other written content from the source language to the target language while preserving the original meaning, tone, and context.",
+    tech_stack: ["Python"],
+    github_url: "https://github.com/Qammarbhat",
     demo_url: "",
   },
   {
     img: "/renr-responsive.png",
-    title: "RENR Safety App",
+    title: "RestaurantNameGenerator",
     description:
-      "A safety application for the Renewable Resources Dept. of BCIT",
-    tech_stack: ["React", "Firebase"],
-    github_url: "https://github.com/NajamulNisa",
+      "Our generator combines linguistic creativity with industry knowledge to deliver memorable and evocative restaurant names that reflect your culinary vision, ambiance, and brand identity. With just a few clicks, you'll discover a selection of names that resonate with your target audience, stand out in a competitive market, and set the stage for a successful dining experience.",
+    tech_stack: ["Python"],
+    github_url: "https://github.com/Qammarbhat",
     demo_url: "",
   },
   {
     img: "/mymind-responsive.png",
-    title: "MyMind",
+    title: "ChatWithData",
     description:
-      "An app where users can purchase online therapy sessions and chat with their therapists.",
-    tech_stack: ["HTML", "CSS", "NodeJs", "MongoDB", "SocketIo"],
-    github_url: "https://github.com/NajamulNisa",
-    demo_url: "https://mymindweb.vercel.app/",
+      "In a data-driven world, insights are key to unlocking opportunities and making informed decisions. Introducing ChatWithData, your trusted platform for engaging in insightful conversations that harness the power of data.",
+    tech_stack: ["Python"],
+    github_url: "https://github.com/Qammarbhat",
+    demo_url: "",
   },
-  {
-    img: "/pokedex-responsive.png",
-    title: "Pokedex",
-    description:
-      "A pokedex app that displays pokemon data, plays OSTs and makes pokemons dance.",
-    tech_stack: ["ReactJs", "NodeJs", "MongoDB"],
-    github_url: "https://github.com/NajamulNisa",
-    demo_url: "https://pokedex-salesp07.netlify.app/",
-  },
-  {
-    img: "/jobDetect.png",
-    title: "JobDetect",
-    description:
-      "An app to detect if a job posting is a scam or not using its description.",
-    tech_stack: ["Python", "Flask", "NodeJs", "MongoDB"],
-    github_url: "https://github.com/NajamulNisa",
-    demo_url: "https://jobdetective.onrender.com/",
-  },
+  
 ];
 
 // --------------------------------------- Skills

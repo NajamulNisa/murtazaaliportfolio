@@ -24,7 +24,7 @@ function Contact() {
           <div className="BigCard">
             <Email>
               <div style={{ display: 'flex', alignItems: 'center', columnGap: '20px', rowGap: '10px', flexWrap: 'wrap', justifyContent: 'center' }} >
-                <span>murtazaali@gmail.com</span>
+                <span>qammar.cqai@gmail.com</span>
                 <Tooltip
                   PopperProps={{
                     disablePortal: true,
