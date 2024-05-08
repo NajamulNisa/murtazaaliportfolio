@@ -58,14 +58,14 @@ function FixSocialIcon() {
         <ul>
           <li className="item">
             <a
-              href="https://www.linkedin.com/in/qammarbhat/"
+              href="https://www.linkedin.com/in/junaid-akhter-bbaa371b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/"
               target="_blank"
               rel="noopener noreferrer"
             >
               <FaLinkedin />
             </a>
           </li>
-          <li className="item">
+          {/* <li className="item">
             <a
               href="https://github.com/Qammarbhat"
               target="_blank"
@@ -73,7 +73,7 @@ function FixSocialIcon() {
             >
               <FaGithub />
             </a>
-          </li>
+          </li> */}
         </ul>
       </ScrollAnimation>
     </SocialContainer>

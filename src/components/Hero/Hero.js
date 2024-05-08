@@ -32,7 +32,7 @@ function Hero() {
               <TypeAnimation
                 cursor={false}
                 sequence={[ 
-                  'Hi, I\'m Qammar Uz Zamman',
+                  'Hi, I\'m Junaid Akhter',
                   () => setShowSubtitle(true)
                 ]}
                 speed={{ type: "keyStrokeDelayInMs", value: 150 }}
@@ -91,7 +91,7 @@ function Hero() {
           <HeroRight>
             <ScrollAnimation animateIn="fadeIn">
               <Image
-                src="/man-svgrepo-com.svg"
+                src="junaid.jpg"
                 alt="man-svgrepo"
               />
             </ScrollAnimation>

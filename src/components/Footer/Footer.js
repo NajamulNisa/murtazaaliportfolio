@@ -19,6 +19,7 @@ const FooterSection = styled.div`
       text-decoration: underline;
     }
   }
+  
 `;
 function Footer() {
   return (

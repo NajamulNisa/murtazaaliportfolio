@@ -25,7 +25,7 @@ const Header = ({ toggle }) => {
         <NavBtn>
           <a
             className="btn PrimaryBtn"
-            href="https://www.linkedin.com/in/qammarbhat/"
+            href="https://www.linkedin.com/in/junaid-akhter-bbaa371b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/"
             target="_blank"
             rel="noopener noreferrer"
           >

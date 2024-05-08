@@ -24,19 +24,22 @@ function About() {
         </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-            Hello! My name is <strong>Qammar Uz Zamman</strong>. I'm from Kashmir.
+            Hello! My name is <strong>Junaid Akhter</strong>. and I'm a highly skilled professional originally from Kashmir, currently based in Germany. With a passion for cutting-edge technologies and a diverse background in various fields, I bring a unique perspective to every project I undertake.
+
+
             </ScrollAnimation>
 
             <br /><br />
             
             <ScrollAnimation animateIn="fadeInLeft">
-            As a seasoned Social Data Scientist, I bring a unique blend of analytical prowess, social media expertise, and strategic insight to drive data-driven decision-making in the digital realm. With a passion for uncovering actionable insights from social media data, I specialize in translating complex datasets into meaningful narratives that inform marketing strategies and business outcomes.
+           A multi-faceted professional with an impressive range of expertise in cutting-edge fields, including Physics Informed Neural Networks, Multi Criteria Learning, Data Science, Tensor Networks, and Quantum Computing. His profound understanding of Physics Informed Neural Networks allows him to construct models that not only excel in performance but also adhere to fundamental physical principles, resulting in highly accurate and interpretable models.
+           In the realm of Multi Criteria Learning, Junaid's proficiency in developing algorithms that simultaneously consider multiple objectives and constraints positions him as a problem solver for complex, real-world challenges. His expertise empowers organizations to make informed decisions by striking a balance between competing criteria.
             </ScrollAnimation>
 
             <br /><br />
 
             <ScrollAnimation animateIn="fadeInLeft">
-            My background in data science combined with a deep understanding of social media dynamics enables me to extract valuable insights from vast and unstructured social media datasets. Leveraging advanced statistical techniques, machine learning algorithms, and natural language processing (NLP) models, I uncover trends, patterns, and correlations that drive business growth and competitive advantage.
+           My understanding of Quantum Computing positions at the forefront of the next wave of computational innovation. With a deep comprehension of quantum algorithms, quantum gates, and quantum machine learning techniques, I explore the potential of quantum computing to revolutionize various industries, from cryptography and optimization to drug discovery and material science.
               <div className="tagline2">
                 I have become confident using the following technologies:
               </div>
